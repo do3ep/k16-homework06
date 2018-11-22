@@ -106,3 +106,6 @@ h6{
 .u1{
 	border-bottom: 2px groove #828282;
 }
+.ul1{
+	list-style-type: square;
+}
